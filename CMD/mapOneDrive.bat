@@ -1,0 +1,1 @@
+subst O: "%userprofile%\OneDrive"
