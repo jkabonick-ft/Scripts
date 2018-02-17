@@ -1,0 +1,1 @@
+﻿shutdown /s /f /t 10
